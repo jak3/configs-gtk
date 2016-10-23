@@ -1,0 +1,16 @@
+# => inherits: generic <= #
+
+gtk:
+  theme: Arc-Dark
+  icon_theme: Arc
+  key_theme: Vi
+
+fonts:
+  main:
+    name: Monospace
+    size: 10
+
+features:
+  - vim
+
+# vim: set filetype: eruby.yaml :
